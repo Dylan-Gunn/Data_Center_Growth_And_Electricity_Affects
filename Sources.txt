@@ -1,0 +1,9 @@
+https://www.eia.gov/dnav/ng/hist/rngwhhdm.htm
+
+https://www.eia.gov/electricity/data/browser/#/topic/5?agg=0,1&geo=0000000002&endsec=vg&linechart=ELEC.SALES.TX-ALL.M~&columnchart=ELEC.SALES.TX-ALL.M&map=ELEC.SALES.TX-ALL.M&freq=M&start=201001&end=202608&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0
+
+https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=0000000002&endsec=vg&linechart=ELEC.PRICE.TX-ALL.M&columnchart=ELEC.PRICE.TX-ALL.M&map=ELEC.PRICE.TX-ALL.M&freq=M&start=201001&end=202608&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=
+
+https://www.ercot.com/mp/data-products/data-product-details?id=NP4-180-ER
+
+https://www.ercot.com/gridinfo/load/load_hist/
