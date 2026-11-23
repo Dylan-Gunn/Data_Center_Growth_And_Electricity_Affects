@@ -1,0 +1,140 @@
+period,market,metric,value,unit,source,note
+2026-06,DFW,inventory_mw,1432.8,MW,CBRE DFW H1 2026,
+2026-06,DFW,under_construction_mw,767.7,MW,CBRE DFW H1 2026,
+2026-06,DFW,net_absorption_mw,352.0,MW,CBRE DFW H1 2026,half-year (H1) figure
+2026-06,DFW,vacancy_pct,2.8,pct,CBRE DFW H1 2026,
+2026-06,DFW,power_rate_low,0.07,usd_per_kwh,CBRE DFW H1 2026,unit not shown in screenshot; assumed per kWh
+2026-06,DFW,power_rate_high,0.085,usd_per_kwh,CBRE DFW H1 2026,unit not shown in screenshot; assumed per kWh
+2025-06,DFW,inventory_mw,869.5,MW,CBRE DFW H1 2025,
+2025-06,DFW,under_construction_mw,425.1,MW,CBRE DFW H1 2025,
+2025-06,DFW,net_absorption_mw,278.9,MW,CBRE DFW H1 2025,half-year (H1) figure
+2025-06,DFW,vacancy_pct,2.4,pct,CBRE DFW H1 2025,
+2025-06,DFW,power_rate_low,0.06,usd_per_kwh,CBRE DFW H1 2025,unit not shown in screenshot; assumed per kWh
+2025-06,DFW,power_rate_high,0.085,usd_per_kwh,CBRE DFW H1 2025,unit not shown in screenshot; assumed per kWh
+2024-12,DFW,inventory_mw,591.0,MW,CBRE DFW 2024 edition,edition to confirm (H2 2024)
+2024-12,DFW,under_construction_mw,605.6,MW,CBRE DFW 2024 edition,edition to confirm (H2 2024)
+2024-12,DFW,net_absorption_mw,46.8,MW,CBRE DFW 2024 edition,labelled 2024 (full year?) so not comparable to H1 figures
+2024-12,DFW,vacancy_pct,3.5,pct,CBRE DFW 2024 edition,edition to confirm (H2 2024)
+2024-12,DFW,power_rate_low,0.06,usd_per_kwh,CBRE DFW 2024 edition,unit not shown in screenshot; assumed per kWh
+2024-12,DFW,power_rate_high,0.085,usd_per_kwh,CBRE DFW 2024 edition,unit not shown in screenshot; assumed per kWh
+2022-04,ERCOT,queue_total_mw,17376,MW,ERCOT LLI 2023-12-11,queue requests not load; queue horizon was shorter then
+2023-03,ERCOT,queue_total_mw,39351,MW,ERCOT LLI 2023-12-11,
+2023-04,ERCOT,queue_total_mw,39645,MW,ERCOT LLI 2023-12-11,
+2023-05,ERCOT,queue_total_mw,41766,MW,ERCOT LLI 2023-12-11,
+2023-08,ERCOT,queue_total_mw,42546,MW,ERCOT LLI 2023-12-11,
+2023-09,ERCOT,queue_total_mw,39559,MW,ERCOT LLI 2023-12-11,
+2023-10,ERCOT,queue_total_mw,39336,MW,ERCOT LLI 2023-12-11,
+2023-12,ERCOT,queue_total_mw,39238,MW,ERCOT LLI 2023-12-11,
+2024-01,ERCOT,queue_total_mw,39271,MW,ERCOT LLI 2024-08-05,
+2024-03,ERCOT,queue_total_mw,40808,MW,ERCOT LLI 2024-08-05,
+2024-05,ERCOT,queue_total_mw,41492,MW,ERCOT LLI 2024-08-05,
+2024-06,ERCOT,queue_total_mw,43683,MW,ERCOT LLI 2024-08-05,
+2024-07,ERCOT,queue_total_mw,47879,MW,ERCOT LLI 2024-08-05,queue expanded to include 2028 in-service dates in July 2024
+2024-08,ERCOT,queue_total_mw,52515,MW,ERCOT LLI 2024-08-05,
+2025-04,ERCOT,queue_total_mw,136625,MW,ERCOT LLI 2026-02-25,gap in source decks from 2024-09 to 2025-03
+2025-05,ERCOT,queue_total_mw,169615,MW,ERCOT LLI 2026-02-25,
+2025-06,ERCOT,queue_total_mw,172828,MW,ERCOT LLI 2026-02-25,
+2025-07,ERCOT,queue_total_mw,182408,MW,ERCOT LLI 2026-02-25,
+2025-08,ERCOT,queue_total_mw,189328,MW,ERCOT LLI 2026-02-25,
+2025-09,ERCOT,queue_total_mw,195423,MW,ERCOT LLI 2026-02-25,
+2025-10,ERCOT,queue_total_mw,212095,MW,ERCOT LLI 2026-02-25,
+2025-11,ERCOT,queue_total_mw,230799,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,queue_total_mw,237189,MW,ERCOT LLI 2026-02-25,
+2026-01,ERCOT,queue_total_mw,233125,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT,queue_total_mw,237711,MW,ERCOT LLI 2026-02-25,
+2023-09,ERCOT,approved_to_energize_mw,3926,MW,ERCOT LLI 2024-08-05,restated vs 2023-12 deck
+2023-10,ERCOT,approved_to_energize_mw,3926,MW,ERCOT LLI 2024-08-05,
+2023-12,ERCOT,approved_to_energize_mw,4479,MW,ERCOT LLI 2024-08-05,
+2024-01,ERCOT,approved_to_energize_mw,4479,MW,ERCOT LLI 2024-08-05,
+2024-03,ERCOT,approved_to_energize_mw,4479,MW,ERCOT LLI 2024-08-05,
+2024-05,ERCOT,approved_to_energize_mw,4479,MW,ERCOT LLI 2024-08-05,
+2024-06,ERCOT,approved_to_energize_mw,5479,MW,ERCOT LLI 2024-08-05,
+2024-07,ERCOT,approved_to_energize_mw,5479,MW,ERCOT LLI 2024-08-05,
+2024-08,ERCOT,approved_to_energize_mw,5479,MW,ERCOT LLI 2024-08-05,
+2025-04,ERCOT,approved_to_energize_mw,6779,MW,ERCOT LLI 2026-02-25,
+2025-05,ERCOT,approved_to_energize_mw,6874,MW,ERCOT LLI 2026-02-25,
+2025-06,ERCOT,approved_to_energize_mw,6874,MW,ERCOT LLI 2026-02-25,
+2025-07,ERCOT,approved_to_energize_mw,7150,MW,ERCOT LLI 2026-02-25,
+2025-08,ERCOT,approved_to_energize_mw,7502,MW,ERCOT LLI 2026-02-25,
+2025-09,ERCOT,approved_to_energize_mw,7502,MW,ERCOT LLI 2026-02-25,
+2025-10,ERCOT,approved_to_energize_mw,7502,MW,ERCOT LLI 2026-02-25,
+2025-11,ERCOT,approved_to_energize_mw,7712,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,approved_to_energize_mw,8786,MW,ERCOT LLI 2026-02-25,
+2026-01,ERCOT,approved_to_energize_mw,8786,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT,approved_to_energize_mw,8876,MW,ERCOT LLI 2026-02-25,
+2023-09,ERCOT,planning_studies_approved_mw,10243,MW,ERCOT LLI 2024-08-05,restated vs 2023-12 deck
+2023-10,ERCOT,planning_studies_approved_mw,10866,MW,ERCOT LLI 2024-08-05,
+2023-12,ERCOT,planning_studies_approved_mw,10751,MW,ERCOT LLI 2024-08-05,
+2024-01,ERCOT,planning_studies_approved_mw,9327,MW,ERCOT LLI 2024-08-05,
+2024-03,ERCOT,planning_studies_approved_mw,9773,MW,ERCOT LLI 2024-08-05,
+2024-05,ERCOT,planning_studies_approved_mw,10288,MW,ERCOT LLI 2024-08-05,
+2024-06,ERCOT,planning_studies_approved_mw,10259,MW,ERCOT LLI 2024-08-05,
+2024-07,ERCOT,planning_studies_approved_mw,9859,MW,ERCOT LLI 2024-08-05,
+2024-08,ERCOT,planning_studies_approved_mw,9982,MW,ERCOT LLI 2024-08-05,
+2025-04,ERCOT,planning_studies_approved_mw,12968,MW,ERCOT LLI 2026-02-25,
+2025-05,ERCOT,planning_studies_approved_mw,12905,MW,ERCOT LLI 2026-02-25,
+2025-06,ERCOT,planning_studies_approved_mw,13049,MW,ERCOT LLI 2026-02-25,
+2025-07,ERCOT,planning_studies_approved_mw,13979,MW,ERCOT LLI 2026-02-25,
+2025-08,ERCOT,planning_studies_approved_mw,13171,MW,ERCOT LLI 2026-02-25,
+2025-09,ERCOT,planning_studies_approved_mw,13276,MW,ERCOT LLI 2026-02-25,
+2025-10,ERCOT,planning_studies_approved_mw,13456,MW,ERCOT LLI 2026-02-25,
+2025-11,ERCOT,planning_studies_approved_mw,14361,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,planning_studies_approved_mw,13452,MW,ERCOT LLI 2026-02-25,
+2026-01,ERCOT,planning_studies_approved_mw,15093,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT,planning_studies_approved_mw,16021,MW,ERCOT LLI 2026-02-25,
+2023-09,ERCOT,observed_peak_nonsimul_mw,2379,MW,ERCOT LLI 2024-08-05,sum of each approved load's own max; approved loads only
+2023-10,ERCOT,observed_peak_nonsimul_mw,2379,MW,ERCOT LLI 2024-08-05,
+2023-12,ERCOT,observed_peak_nonsimul_mw,2432,MW,ERCOT LLI 2024-08-05,matches 2023-12 deck
+2024-01,ERCOT,observed_peak_nonsimul_mw,2587,MW,ERCOT LLI 2024-08-05,
+2024-03,ERCOT,observed_peak_nonsimul_mw,2844,MW,ERCOT LLI 2024-08-05,
+2024-05,ERCOT,observed_peak_nonsimul_mw,2902,MW,ERCOT LLI 2024-08-05,
+2024-06,ERCOT,observed_peak_nonsimul_mw,2991,MW,ERCOT LLI 2024-08-05,
+2024-07,ERCOT,observed_peak_nonsimul_mw,3065,MW,ERCOT LLI 2024-08-05,
+2024-08,ERCOT,observed_peak_nonsimul_mw,3173.5,MW,ERCOT LLI 2024-08-05,
+2025-04,ERCOT,observed_peak_nonsimul_mw,4028,MW,ERCOT LLI 2026-02-25,
+2025-05,ERCOT,observed_peak_nonsimul_mw,3830,MW,ERCOT LLI 2026-02-25,
+2025-06,ERCOT,observed_peak_nonsimul_mw,3847,MW,ERCOT LLI 2026-02-25,
+2025-07,ERCOT,observed_peak_nonsimul_mw,4030,MW,ERCOT LLI 2026-02-25,
+2025-08,ERCOT,observed_peak_nonsimul_mw,4063,MW,ERCOT LLI 2026-02-25,
+2025-09,ERCOT,observed_peak_nonsimul_mw,4132,MW,ERCOT LLI 2026-02-25,
+2025-10,ERCOT,observed_peak_nonsimul_mw,4227,MW,ERCOT LLI 2026-02-25,
+2025-11,ERCOT,observed_peak_nonsimul_mw,4220,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,observed_peak_nonsimul_mw,4011,MW,ERCOT LLI 2026-02-25,
+2026-01,ERCOT,observed_peak_nonsimul_mw,4049,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT,observed_peak_nonsimul_mw,3998,MW,ERCOT LLI 2026-02-25,deck text says February 2025 but chart is 2026-02 (typo in deck)
+2023-09,ERCOT,observed_peak_simul_mw,1967,MW,ERCOT LLI 2024-08-05,max of summed approved loads at one moment
+2023-10,ERCOT,observed_peak_simul_mw,2030,MW,ERCOT LLI 2024-08-05,
+2023-12,ERCOT,observed_peak_simul_mw,2265,MW,ERCOT LLI 2024-08-05,matches 2023-12 deck
+2024-01,ERCOT,observed_peak_simul_mw,2349,MW,ERCOT LLI 2024-08-05,
+2024-03,ERCOT,observed_peak_simul_mw,2538,MW,ERCOT LLI 2024-08-05,
+2024-05,ERCOT,observed_peak_simul_mw,2610,MW,ERCOT LLI 2024-08-05,
+2024-06,ERCOT,observed_peak_simul_mw,2610,MW,ERCOT LLI 2024-08-05,
+2024-07,ERCOT,observed_peak_simul_mw,2610,MW,ERCOT LLI 2024-08-05,
+2024-08,ERCOT,observed_peak_simul_mw,2815,MW,ERCOT LLI 2024-08-05,
+2025-04,ERCOT,observed_peak_simul_mw,3352,MW,ERCOT LLI 2026-02-25,
+2025-05,ERCOT,observed_peak_simul_mw,3441,MW,ERCOT LLI 2026-02-25,
+2025-06,ERCOT,observed_peak_simul_mw,3392,MW,ERCOT LLI 2026-02-25,
+2025-07,ERCOT,observed_peak_simul_mw,3528,MW,ERCOT LLI 2026-02-25,
+2025-08,ERCOT,observed_peak_simul_mw,3733,MW,ERCOT LLI 2026-02-25,
+2025-09,ERCOT,observed_peak_simul_mw,3845,MW,ERCOT LLI 2026-02-25,
+2025-10,ERCOT,observed_peak_simul_mw,3846,MW,ERCOT LLI 2026-02-25,
+2025-11,ERCOT,observed_peak_simul_mw,3795,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,observed_peak_simul_mw,3793,MW,ERCOT LLI 2026-02-25,
+2026-01,ERCOT,observed_peak_simul_mw,3765,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT,observed_peak_simul_mw,3846,MW,ERCOT LLI 2026-02-25,
+2022-12,ERCOT,observed_energized_alltime_mw,2634,MW,ERCOT LLI 2026-02-25,2026-deck definition (all-time non-simultaneous peak); levels not comparable to observed_peak rows
+2023-12,ERCOT,observed_energized_alltime_mw,4286,MW,ERCOT LLI 2026-02-25,
+2024-12,ERCOT,observed_energized_alltime_mw,4845,MW,ERCOT LLI 2026-02-25,
+2025-12,ERCOT,observed_energized_alltime_mw,5732,MW,ERCOT LLI 2026-02-25,
+2024-08,ERCOT LZ_WEST,approved_to_energize_mw,2837,MW,ERCOT LLI 2024-08-05,from chart (1529 observed + 1308 remaining); deck text conflicts with its own chart
+2024-08,ERCOT NON_WEST,approved_to_energize_mw,2642,MW,ERCOT LLI 2024-08-05,LZ_NORTH + LZ_SOUTH + LZ_HOUSTON; from chart (1643 + 999)
+2024-08,ERCOT LZ_WEST,observed_peak_nonsimul_mw,1529,MW,ERCOT LLI 2024-08-05,
+2024-08,ERCOT NON_WEST,observed_peak_nonsimul_mw,1643,MW,ERCOT LLI 2024-08-05,
+2026-02,ERCOT LZ_WEST,approved_to_energize_mw,5136,MW,ERCOT LLI 2026-02-25,2350 observed + 2786 remaining
+2026-02,ERCOT NON_WEST,approved_to_energize_mw,3741,MW,ERCOT LLI 2026-02-25,LZ_NORTH + LZ_SOUTH + LZ_HOUSTON; 1652 observed + 2089 remaining
+2026-02,ERCOT LZ_WEST,observed_peak_nonsimul_mw,2350,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT NON_WEST,observed_peak_nonsimul_mw,1652,MW,ERCOT LLI 2026-02-25,
+2026-02,ERCOT LZ_WEST,queue_review_or_approved_mw,37706,MW,ERCOT LLI 2026-02-25,under ERCOT review plus planning studies approved; excludes no-studies-submitted
+2026-02,ERCOT LZ_NORTH,queue_review_or_approved_mw,30434,MW,ERCOT LLI 2026-02-25,same basis as above
+2026-02,ERCOT OTHER_ZONES,queue_review_or_approved_mw,25585,MW,ERCOT LLI 2026-02-25,slide 13 Other (zones not named); same basis as above
+2026-02,ERCOT,queue_data_center_mw,175124,MW,ERCOT LLI 2026-02-25,74.4 pct of queue by type; others: none 13.2 pct; crypto 7.5; industrial 3.3; data center/crypto 1.1; hydrogen 0.5
